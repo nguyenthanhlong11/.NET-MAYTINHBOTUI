@@ -1,2 +1,2 @@
-# .NET-MAYTINHBOTUI
-## Bài tập môn C#
+## Máy tính bỏ túi
+### Bài tập môn C#
