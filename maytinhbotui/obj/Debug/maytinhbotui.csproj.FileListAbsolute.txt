@@ -1,0 +1,10 @@
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\bin\Debug\maytinhbotui.exe.config
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\bin\Debug\maytinhbotui.exe
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\bin\Debug\maytinhbotui.pdb
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.csprojAssemblyReference.cache
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.Form1.resources
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.Properties.Resources.resources
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.csproj.GenerateResource.cache
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.csproj.CoreCompileInputs.cache
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.exe
+C:\Users\THANH LONG\source\repos\maytinhbotui\maytinhbotui\obj\Debug\maytinhbotui.pdb
